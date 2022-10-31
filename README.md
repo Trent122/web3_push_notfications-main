@@ -1,6 +1,6 @@
 ### About
 
-Dapp University Web3 Notificationsa App that allows you to take a contract ABI, Address and event name and get the events on the front-end in addition to notifications on the browser for the event. 
+Blocktec University Web3 Notificationsa App that allows you to take a contract ABI, Address and event name and get the events on the front-end in addition to notifications on the browser for the event. 
 
 For example using Aave Lending Pool contract you can enter the following details and get the events on front end and notifications in the browser. 
 
